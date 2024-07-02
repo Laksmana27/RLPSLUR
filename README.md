@@ -24,10 +24,10 @@
 
 JOIN WITH MY CHANNEL FOR MORE INFORMATION UPDATE
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://whatsapp.com/channel/0029VaYyCtsHltYBaNA0DQ36)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.me/62895372305081)
 
 ### About
-This bot was created by DitzOfc, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time
+This bot was created by Laksmana27, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time
  
 ## Types and Programming Languages 
 

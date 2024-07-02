@@ -223,7 +223,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact Me
 If you find a bug/error in the script, you can contact me directly via:
 
-[On WhatsApp](https://wa.me/6285717062467)
+[On WhatsApp](https://wa.me/62895372305081)
 
 Or Open Issues
 

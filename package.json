@@ -20,13 +20,13 @@
   "scripts": {
     "start": "node main.js --pairing-code --autoread --autocleartmp"
   },
-  "homepage": "https://github.com/DitzOfc-Expertise/Komari_Botz",
+  "homepage": "https://github.com/https://github.com/Laksmana27/RLPSLUR",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DitzOfc-Expertise/Komari_Botz.git"
+    "url": "https://github.com/https://github.com/Laksmana27/RLPSLUR"
   },
   "bugs": {
-    "url": "https://github.com/DitzOfc-Expertise/Komari_Botz/issues"
+    "url": "https://github.com/Laksmana27/RLPSLUR/issues"
   },
   "license": "MIT",
   "dependencies": {

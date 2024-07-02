@@ -24,7 +24,7 @@
 
 JOIN WITH MY CHANNEL FOR MORE INFORMATION UPDATE
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://chat.whatsapp.com/ClBIDb35l0n5HlyehYFSiJ))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://chat.whatsapp.com/ClBIDb35l0n5HlyehYFSiJ)
 
 ### About
 This bot was created by Laksmana27, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time

@@ -1,7 +1,7 @@
 {
-  "name": "𝗗𝗘𝗢-𝗠𝗗",
+  "name": "rlp-𝗠𝗗",
   "version": "2.0.0",
-  "author": "𝗗𝗘𝗢-𝗠𝗗",
+  "author": "rlp-𝗠𝗗",
   "description": "A Simple Bot WhatsApp But Powerfull",
   "depecrated": false,
   "module": "WhiskeySockets/Baileys",
